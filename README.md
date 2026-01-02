@@ -1,4 +1,4 @@
-# AVR Atmel Projects 🔌
+# AVR Atmel Projects 🎓
 **Firmware Development & Hardware Interfacing for 8-bit Microcontrollers**
 
 ![MCU](https://img.shields.io/badge/MCU-ATmega32_/_ATmega16-blue?style=for-the-badge&logo=microchip)
