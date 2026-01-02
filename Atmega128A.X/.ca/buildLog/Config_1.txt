@@ -1,0 +1,26 @@
+make -f nbproject/Makefile-Config_1.mk SUBPROJECTS= .clean-conf
+make[1]: Entering directory 'C:/Users/Family/MPLABXProjects/Atmega128A.X'
+rm -f  -r .ca/build/Config_1/production
+rm -f  -r .ca/dist/Config_1/production
+make[1]: Leaving directory 'C:/Users/Family/MPLABXProjects/Atmega128A.X'
+[32mCLEAN SUCCESSFUL (total time: 251ms)[0m
+make -f nbproject/Makefile-Config_1.mk SUBPROJECTS= .build-conf
+make  -f nbproject/Makefile-Config_1.mk .ca/dist/Config_1/production/Atmega128A.X.production.hex
+make[2]: Entering directory 'C:/Users/Family/MPLABXProjects/Atmega128A.X'
+"C:\Program Files\Microchip\xc8\v2.50\bin\xc8-cc.exe"  -mcpu=ATmega128A -c  -x c -D__ATmega128A__   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8"  -Wl,--gc-sections -O1 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -DXPRJ_Config_1=Config_1    -gdwarf-3 -mno-const-data-in-progmem     -MD -MP -MF ".ca/build/Config_1/production/24C32.o.d" -MT ".ca/build/Config_1/production/24C32.o.d" -MT .ca/build/Config_1/production/24C32.o -o .ca/build/Config_1/production/24C32.o 24C32.c 
+make[2]: Leaving directory 'C:/Users/Family/MPLABXProjects/Atmega128A.X'
+make[2]: Entering directory 'C:/Users/Family/MPLABXProjects/Atmega128A.X'
+"C:\Program Files\Microchip\xc8\v2.50\bin\xc8-cc.exe"  -mcpu=ATmega128A -c  -x c -D__ATmega128A__   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8"  -Wl,--gc-sections -O1 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -DXPRJ_Config_1=Config_1    -gdwarf-3 -mno-const-data-in-progmem     -MD -MP -MF ".ca/build/Config_1/production/main.o.d" -MT ".ca/build/Config_1/production/main.o.d" -MT .ca/build/Config_1/production/main.o -o .ca/build/Config_1/production/main.o main.c 
+make[2]: Leaving directory 'C:/Users/Family/MPLABXProjects/Atmega128A.X'
+make[2]: Entering directory 'C:/Users/Family/MPLABXProjects/Atmega128A.X'
+"C:\Program Files\Microchip\xc8\v2.50\bin\xc8-cc.exe"  -mcpu=ATmega128A -c  -x c -D__ATmega128A__   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8"  -Wl,--gc-sections -O1 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -DXPRJ_Config_1=Config_1    -gdwarf-3 -mno-const-data-in-progmem     -MD -MP -MF ".ca/build/Config_1/production/i2c_driver.o.d" -MT ".ca/build/Config_1/production/i2c_driver.o.d" -MT .ca/build/Config_1/production/i2c_driver.o -o .ca/build/Config_1/production/i2c_driver.o i2c_driver.c 
+make[2]: Leaving directory 'C:/Users/Family/MPLABXProjects/Atmega128A.X'
+make[2]: Entering directory 'C:/Users/Family/MPLABXProjects/Atmega128A.X'
+"C:\Program Files\Microchip\xc8\v2.50\bin\xc8-cc.exe"  -mcpu=ATmega128A -c  -x c -D__ATmega128A__   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8"  -Wl,--gc-sections -O1 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -DXPRJ_Config_1=Config_1    -gdwarf-3 -mno-const-data-in-progmem     -MD -MP -MF ".ca/build/Config_1/production/ProgramDataHandler.o.d" -MT ".ca/build/Config_1/production/ProgramDataHandler.o.d" -MT .ca/build/Config_1/production/ProgramDataHandler.o -o .ca/build/Config_1/production/ProgramDataHandler.o ProgramDataHandler.c 
+make[2]: Leaving directory 'C:/Users/Family/MPLABXProjects/Atmega128A.X'
+make[2]: Entering directory 'C:/Users/Family/MPLABXProjects/Atmega128A.X'
+"C:\Program Files\Microchip\xc8\v2.50\bin\xc8-cc.exe"  -mcpu=ATmega128A -Wl,-Map=.ca/dist/Config_1/production/Atmega128A.X.production.map  -DXPRJ_Config_1=Config_1  -Wl,--defsym=__MPLAB_BUILD=1   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8"  -Wl,--gc-sections -O1 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem      -Wl,--memorysummary,.ca/dist/Config_1/production/memoryfile.xml -o .ca/dist/Config_1/production/Atmega128A.X.production.elf  -o .ca/dist/Config_1/production/Atmega128A.X.production.elf  .ca/build/Config_1/production/i2c_driver.o .ca/build/Config_1/production/24C32.o .ca/build/Config_1/production/main.o .ca/build/Config_1/production/ProgramDataHandler.o      -Wl,--start-group  -Wl,-lm -Wl,--end-group 
+Info: Loading file: c:\program files\microchip\xc8\v2.50\avr\avr\bin\../lib\ldscripts/avr51.xn
+"C:\Program Files\Microchip\xc8\v2.50\bin"\\avr-objcopy -O ihex ".ca/dist/Config_1/production/Atmega128A.X.production.elf" ".ca/dist/Config_1/production/Atmega128A.X.production.hex"
+make[2]: Leaving directory 'C:/Users/Family/MPLABXProjects/Atmega128A.X'
+[32mBUILD SUCCESSFUL (total time: 1s)[0m

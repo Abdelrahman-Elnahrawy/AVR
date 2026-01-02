@@ -1,0 +1,1091 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+                              build/default/production/i2c_driver.o (__divmodhi4)
+c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+                              build/default/production/i2c_driver.o (__tablejump2__)
+c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+                              build/default/production/main.o (__do_copy_data)
+c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+                              c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o)
+                              C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o (exit)
+c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(_Exit.o)
+                              c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o) (_Exit)
+c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+                              c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(_Exit.o) (_exit)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+ .bss           0x0000000000000000        0x0 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+ .text          0x0000000000000000        0x0 build/default/production/i2c_driver.o
+ .data          0x0000000000000000        0x0 build/default/production/i2c_driver.o
+ .bss           0x0000000000000000        0x0 build/default/production/i2c_driver.o
+ .text.i2c_SendByte
+                0x0000000000000000       0x22 build/default/production/i2c_driver.o
+ .text.i2c_SendArraySr
+                0x0000000000000000       0x1a build/default/production/i2c_driver.o
+ .text          0x0000000000000000        0x0 build/default/production/main.o
+ .data          0x0000000000000000        0x0 build/default/production/main.o
+ .bss           0x0000000000000000        0x0 build/default/production/main.o
+ .bss.read_arr  0x0000000000000000        0x5 build/default/production/main.o
+ .data.arr      0x0000000000000000        0x5 build/default/production/main.o
+ .data.readbyte
+                0x0000000000000000        0x1 build/default/production/main.o
+ .data.read16   0x0000000000000000        0x2 build/default/production/main.o
+ .text          0x0000000000000000        0x0 build/default/production/ProgramDataHandler.o
+ .data          0x0000000000000000        0x0 build/default/production/ProgramDataHandler.o
+ .bss           0x0000000000000000        0x0 build/default/production/ProgramDataHandler.o
+ .text.EEPROM_loadProgram
+                0x0000000000000000       0x92 build/default/production/ProgramDataHandler.o
+ .text.EEPROM_saveProgramData
+                0x0000000000000000       0xbe build/default/production/ProgramDataHandler.o
+ .text.EEPROM_saveCurrentSettings
+                0x0000000000000000       0xb2 build/default/production/ProgramDataHandler.o
+ .text.EEPROM_readProgramVariable
+                0x0000000000000000       0x8c build/default/production/ProgramDataHandler.o
+ .progmem.gcc_sw_table.EEPROM_readProgramVariable
+                0x0000000000000000       0x24 build/default/production/ProgramDataHandler.o
+ .text.EEPROM_writeProgramVariable
+                0x0000000000000000       0x38 build/default/production/ProgramDataHandler.o
+ .bss.VaccumPercent
+                0x0000000000000000        0x1 build/default/production/ProgramDataHandler.o
+ .bss.RateOfHeatRise
+                0x0000000000000000        0x1 build/default/production/ProgramDataHandler.o
+ .bss.VaccumStopTemp
+                0x0000000000000000        0x2 build/default/production/ProgramDataHandler.o
+ .bss.VaccumStartTemp
+                0x0000000000000000        0x2 build/default/production/ProgramDataHandler.o
+ .bss.CoolingTime
+                0x0000000000000000        0x2 build/default/production/ProgramDataHandler.o
+ .bss.CoolingTemp
+                0x0000000000000000        0x2 build/default/production/ProgramDataHandler.o
+ .bss.BurningTime
+                0x0000000000000000        0x2 build/default/production/ProgramDataHandler.o
+ .bss.BurningTemp
+                0x0000000000000000        0x2 build/default/production/ProgramDataHandler.o
+ .bss.HoldTimeStandby
+                0x0000000000000000        0x2 build/default/production/ProgramDataHandler.o
+ .bss.StandbyTemp
+                0x0000000000000000        0x2 build/default/production/ProgramDataHandler.o
+ .debug_info    0x0000000000000000      0xb34 build/default/production/ProgramDataHandler.o
+ .debug_abbrev  0x0000000000000000       0xfd build/default/production/ProgramDataHandler.o
+ .debug_loc     0x0000000000000000      0x531 build/default/production/ProgramDataHandler.o
+ .debug_aranges
+                0x0000000000000000       0x40 build/default/production/ProgramDataHandler.o
+ .debug_ranges  0x0000000000000000       0x30 build/default/production/ProgramDataHandler.o
+ .debug_line    0x0000000000000000      0x253 build/default/production/ProgramDataHandler.o
+ .debug_str     0x0000000000000000       0x87 build/default/production/ProgramDataHandler.o
+ .comment       0x0000000000000000       0x30 build/default/production/ProgramDataHandler.o
+ .debug_frame   0x0000000000000000       0xd8 build/default/production/ProgramDataHandler.o
+ .text          0x0000000000000000        0x0 build/default/production/EEPROM_24C32.o
+ .data          0x0000000000000000        0x0 build/default/production/EEPROM_24C32.o
+ .bss           0x0000000000000000        0x0 build/default/production/EEPROM_24C32.o
+ .text.eepromQueueADD
+                0x0000000000000000       0x54 build/default/production/EEPROM_24C32.o
+ .text.eeprom_readByte
+                0x0000000000000000        0xa build/default/production/EEPROM_24C32.o
+ .text.eeprom_readArray
+                0x0000000000000000        0x6 build/default/production/EEPROM_24C32.o
+ .text.eeprom_write_uint16_t
+                0x0000000000000000       0x30 build/default/production/EEPROM_24C32.o
+ .text.eeprom_writeByte
+                0x0000000000000000       0x2c build/default/production/EEPROM_24C32.o
+ .text.eeprom_read_uint16_t
+                0x0000000000000000        0xa build/default/production/EEPROM_24C32.o
+ .text.eeprom_writeArray
+                0x0000000000000000       0x80 build/default/production/EEPROM_24C32.o
+ .bss.queueHead
+                0x0000000000000000        0x1 build/default/production/EEPROM_24C32.o
+ .bss.eppromCallbackDataPointer
+                0x0000000000000000        0x2 build/default/production/EEPROM_24C32.o
+ .text          0x0000000000000000        0x0 build/default/production/rtc_ds1307.o
+ .data          0x0000000000000000        0x0 build/default/production/rtc_ds1307.o
+ .bss           0x0000000000000000        0x0 build/default/production/rtc_ds1307.o
+ .text.DS1307_run_state
+                0x0000000000000000       0x18 build/default/production/rtc_ds1307.o
+ .text.DS1307_square_wave
+                0x0000000000000000       0x8a build/default/production/rtc_ds1307.o
+ .text.DS1307_snapshot_save
+                0x0000000000000000       0x58 build/default/production/rtc_ds1307.o
+ .text.DS1307_snapshot_clear
+                0x0000000000000000       0x12 build/default/production/rtc_ds1307.o
+ .text          0x0000000000000000        0x0 build/default/production/rtc_ds1307_low_level.o
+ .data          0x0000000000000000        0x0 build/default/production/rtc_ds1307_low_level.o
+ .bss           0x0000000000000000        0x0 build/default/production/rtc_ds1307_low_level.o
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x19 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+ .stack.descriptors
+                0x0000000000000000       0x1c c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x1a c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x73 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(_Exit.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(_Exit.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(_Exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(_Exit.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800100 0x0000000000001000 rw !x
+eeprom           0x0000000000810000 0x0000000000001000 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+bootrow          0x0000000000860000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+LOAD build/default/production/i2c_driver.o
+LOAD build/default/production/main.o
+LOAD build/default/production/ProgramDataHandler.o
+LOAD build/default/production/EEPROM_24C32.o
+LOAD build/default/production/rtc_ds1307.o
+LOAD build/default/production/rtc_ds1307_low_level.o
+START GROUP
+LOAD c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a
+LOAD c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a
+LOAD c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a
+LOAD C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51\libatmega128a.a
+END GROUP
+                [0x0000000000000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800100
+                [0x0000000000020000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000001000]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xff00
+                [0x0000000000001000]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __BOOTROW_REGION_LENGTH__ = DEFINED (__BOOTROW_REGION_LENGTH__)?__BOOTROW_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0x1e0
+ *(.vectors)
+ .vectors       0x0000000000000000       0x8c C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.__vector_33
+                0x000000000000008c       0xa2 build/default/production/i2c_driver.o
+ .progmem.gcc_sw_table.DS1307_reset
+                0x000000000000012e       0x18 build/default/production/rtc_ds1307.o
+ .progmem.gcc_sw_table.DS1307_read
+                0x0000000000000146       0x18 build/default/production/rtc_ds1307.o
+ .progmem.gcc_sw_table.DS1307_set
+                0x000000000000015e       0x18 build/default/production/rtc_ds1307.o
+ *(.dinit)
+ .dinit         0x0000000000000176       0x11 data_init
+                0x0000000000000188                . = ALIGN (0x2)
+ *fill*         0x0000000000000187        0x1 
+                0x0000000000000188                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000188        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000188                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x0000000000000188                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000188                __ctors_start = .
+ *(.ctors)
+                0x0000000000000188                __ctors_end = .
+                0x0000000000000188                __dtors_start = .
+ *(.dtors)
+                0x0000000000000188                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000188        0x0 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+                0x0000000000000188                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000188        0xc C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000194       0x40 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+                0x0000000000000194                __do_copy_data
+                0x00000000000001c6                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000001d4        0x8 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+ *(.init9)
+                0x00000000000001dc                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000001dc        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+                0x00000000000001dc                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000001dc        0x4 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000001e0                _etext = .
+
+.data           0x0000000000800100        0x0 load address 0x00000000000001e0
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800100                . = ALIGN (0x2)
+                0x0000000000800100                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000800100        0x0
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x00000000000001e0                __data_load_start = LOADADDR (.data)
+                0x00000000000001e0                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800100        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800100                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.bootrow
+ *(.bootrow*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5b
+ *(.comment)
+ .comment       0x0000000000000000       0x2f build/default/production/i2c_driver.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 build/default/production/main.o
+ .comment       0x000000000000002f       0x30 build/default/production/EEPROM_24C32.o
+ .comment       0x000000000000002f       0x30 build/default/production/rtc_ds1307.o
+ .comment       0x000000000000002f       0x30 build/default/production/rtc_ds1307_low_level.o
+ .comment       0x000000000000002f       0x2c c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(_Exit.o)
+
+.stack.descriptors.hdr
+                0x0000000000000000       0x54
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .stack.descriptors.hdr
+                0x000000000000000e        0xe c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+ .stack.descriptors.hdr
+                0x000000000000001c        0xe c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .stack.descriptors.hdr
+                0x000000000000002a        0xe c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o)
+ .stack.descriptors.hdr
+                0x0000000000000038        0xe c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(_Exit.o)
+ .stack.descriptors.hdr
+                0x0000000000000046        0xe c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(_Exit.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x1b8
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x68 build/default/production/i2c_driver.o
+ .debug_aranges
+                0x0000000000000068       0x28 build/default/production/main.o
+ .debug_aranges
+                0x0000000000000090       0x60 build/default/production/EEPROM_24C32.o
+ .debug_aranges
+                0x00000000000000f0       0x80 build/default/production/rtc_ds1307.o
+ .debug_aranges
+                0x0000000000000170       0x48 build/default/production/rtc_ds1307_low_level.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x3bdf
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x780 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+ .debug_info    0x0000000000000780      0x894 build/default/production/i2c_driver.o
+ .debug_info    0x0000000000001014      0x594 build/default/production/main.o
+ .debug_info    0x00000000000015a8      0x95c build/default/production/EEPROM_24C32.o
+ .debug_info    0x0000000000001f04     0x1568 build/default/production/rtc_ds1307.o
+ .debug_info    0x000000000000346c      0x773 build/default/production/rtc_ds1307_low_level.o
+
+.debug_abbrev   0x0000000000000000      0xf92
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x718 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+ .debug_abbrev  0x0000000000000718      0x1b7 build/default/production/i2c_driver.o
+ .debug_abbrev  0x00000000000008cf      0x164 build/default/production/main.o
+ .debug_abbrev  0x0000000000000a33      0x1e2 build/default/production/EEPROM_24C32.o
+ .debug_abbrev  0x0000000000000c15      0x1f3 build/default/production/rtc_ds1307.o
+ .debug_abbrev  0x0000000000000e08      0x18a build/default/production/rtc_ds1307_low_level.o
+
+.debug_line     0x0000000000000000     0x11f5
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x16a C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+ .debug_line    0x000000000000016a      0x411 build/default/production/i2c_driver.o
+ .debug_line    0x000000000000057b      0x15a build/default/production/main.o
+ .debug_line    0x00000000000006d5      0x242 build/default/production/EEPROM_24C32.o
+ .debug_line    0x0000000000000917      0x706 build/default/production/rtc_ds1307.o
+ .debug_line    0x000000000000101d      0x1d8 build/default/production/rtc_ds1307_low_level.o
+
+.debug_frame    0x0000000000000000      0x450
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x138 build/default/production/i2c_driver.o
+ .debug_frame   0x0000000000000138       0x34 build/default/production/main.o
+ .debug_frame   0x000000000000016c       0xf8 build/default/production/EEPROM_24C32.o
+ .debug_frame   0x0000000000000264      0x138 build/default/production/rtc_ds1307.o
+ .debug_frame   0x000000000000039c       0xb4 build/default/production/rtc_ds1307_low_level.o
+
+.debug_str      0x0000000000000000      0x44e
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x27d C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+ .debug_str     0x000000000000027d        0xe build/default/production/i2c_driver.o
+ .debug_str     0x000000000000028b       0x49 build/default/production/main.o
+ .debug_str     0x00000000000002d4       0x76 build/default/production/EEPROM_24C32.o
+ .debug_str     0x000000000000034a       0x7d build/default/production/rtc_ds1307.o
+ .debug_str     0x00000000000003c7       0x87 build/default/production/rtc_ds1307_low_level.o
+
+.debug_loc      0x0000000000000000     0x14dc
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x494 build/default/production/i2c_driver.o
+ .debug_loc     0x0000000000000494       0x48 build/default/production/main.o
+ .debug_loc     0x00000000000004dc      0x428 build/default/production/EEPROM_24C32.o
+ .debug_loc     0x0000000000000904      0x8a6 build/default/production/rtc_ds1307.o
+ .debug_loc     0x00000000000011aa      0x332 build/default/production/rtc_ds1307_low_level.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x168
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x58 build/default/production/i2c_driver.o
+ .debug_ranges  0x0000000000000058       0x18 build/default/production/main.o
+ .debug_ranges  0x0000000000000070       0x50 build/default/production/EEPROM_24C32.o
+ .debug_ranges  0x00000000000000c0       0x70 build/default/production/rtc_ds1307.o
+ .debug_ranges  0x0000000000000130       0x38 build/default/production/rtc_ds1307_low_level.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/Atmega128A.X.production.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+
+.bss.currentAddress
+                0x00000000008002a8        0x1
+ .bss.currentAddress
+                0x00000000008002a8        0x1 build/default/production/i2c_driver.o
+
+.bss.RepeatStartPlace
+                0x00000000008002a9        0x1
+ .bss.RepeatStartPlace
+                0x00000000008002a9        0x1 build/default/production/i2c_driver.o
+
+.bss.RepeatStartFlag
+                0x00000000008002aa        0x1
+ .bss.RepeatStartFlag
+                0x00000000008002aa        0x1 build/default/production/i2c_driver.o
+
+.bss.i2c_WriteBufferTail
+                0x00000000008002ab        0x1
+ .bss.i2c_WriteBufferTail
+                0x00000000008002ab        0x1 build/default/production/i2c_driver.o
+
+.bss.i2c_WriteBufferHead
+                0x00000000008002ac        0x1
+ .bss.i2c_WriteBufferHead
+                0x00000000008002ac        0x1 build/default/production/i2c_driver.o
+
+.bss.i2c_WriteBuffer
+                0x0000000000800100       0x64
+ .bss.i2c_WriteBuffer
+                0x0000000000800100       0x64 build/default/production/i2c_driver.o
+
+.bss.WriteDataLength
+                0x00000000008002ad        0x1
+ .bss.WriteDataLength
+                0x00000000008002ad        0x1 build/default/production/i2c_driver.o
+
+.bss.i2c_ReadBufferCurrentSize
+                0x00000000008002ae        0x1
+ .bss.i2c_ReadBufferCurrentSize
+                0x00000000008002ae        0x1 build/default/production/i2c_driver.o
+
+.bss.i2c_ReadBufferTail
+                0x00000000008002af        0x1
+ .bss.i2c_ReadBufferTail
+                0x00000000008002af        0x1 build/default/production/i2c_driver.o
+
+.bss.i2c_ReadBufferHead
+                0x00000000008002b0        0x1
+ .bss.i2c_ReadBufferHead
+                0x00000000008002b0        0x1 build/default/production/i2c_driver.o
+
+.bss.i2c_ReadBuffer
+                0x0000000000800164       0x64
+ .bss.i2c_ReadBuffer
+                0x0000000000800164       0x64 build/default/production/i2c_driver.o
+
+.bss.i2c_ReadDataLength
+                0x00000000008002b1        0x1
+ .bss.i2c_ReadDataLength
+                0x00000000008002b1        0x1 build/default/production/i2c_driver.o
+
+.bss.i2c_WriteBufferCurrentSize
+                0x00000000008002b2        0x1
+ .bss.i2c_WriteBufferCurrentSize
+                0x00000000008002b2        0x1 build/default/production/i2c_driver.o
+                0x00000000008002b2                i2c_WriteBufferCurrentSize
+
+.bss.i2cReadBusyFlag
+                0x00000000008002b3        0x1
+ .bss.i2cReadBusyFlag
+                0x00000000008002b3        0x1 build/default/production/i2c_driver.o
+                0x00000000008002b3                i2cReadBusyFlag
+
+.bss.i2cReadDataReadyFlag
+                0x00000000008002b4        0x1
+ .bss.i2cReadDataReadyFlag
+                0x00000000008002b4        0x1 build/default/production/i2c_driver.o
+                0x00000000008002b4                i2cReadDataReadyFlag
+
+.bss.i2cErorrFlag
+                0x00000000008002b5        0x1
+ .bss.i2cErorrFlag
+                0x00000000008002b5        0x1 build/default/production/i2c_driver.o
+                0x00000000008002b5                i2cErorrFlag
+
+.bss.time_data  0x000000000080029f        0x3
+ .bss.time_data
+                0x000000000080029f        0x3 build/default/production/main.o
+                0x000000000080029f                time_data
+
+.bss.eepromReadQueueSize
+                0x00000000008002b6        0x1
+ .bss.eepromReadQueueSize
+                0x00000000008002b6        0x1 build/default/production/EEPROM_24C32.o
+
+.bss.queueTail  0x00000000008002b7        0x1
+ .bss.queueTail
+                0x00000000008002b7        0x1 build/default/production/EEPROM_24C32.o
+
+.bss.eepromReadLengthQueue
+                0x0000000000800240       0x1e
+ .bss.eepromReadLengthQueue
+                0x0000000000800240       0x1e build/default/production/EEPROM_24C32.o
+
+.bss.eepromReadDataPtrQueue
+                0x00000000008001c8       0x3c
+ .bss.eepromReadDataPtrQueue
+                0x00000000008001c8       0x3c build/default/production/EEPROM_24C32.o
+
+.bss.eepromReadAddressQueue
+                0x0000000000800204       0x3c
+ .bss.eepromReadAddressQueue
+                0x0000000000800204       0x3c build/default/production/EEPROM_24C32.o
+
+.bss.CurrentDataPtr
+                0x00000000008002a2        0x2
+ .bss.CurrentDataPtr
+                0x00000000008002a2        0x2 build/default/production/EEPROM_24C32.o
+
+.bss.CurrentLength
+                0x00000000008002b8        0x1
+ .bss.CurrentLength
+                0x00000000008002b8        0x1 build/default/production/EEPROM_24C32.o
+
+.bss.CurrentAdr
+                0x00000000008002a4        0x2
+ .bss.CurrentAdr
+                0x00000000008002a4        0x2 build/default/production/EEPROM_24C32.o
+
+.bss.eepromReadWaitingFlag
+                0x00000000008002b9        0x1
+ .bss.eepromReadWaitingFlag
+                0x00000000008002b9        0x1 build/default/production/EEPROM_24C32.o
+
+.bss.snap0_vacancy
+                0x00000000008002ba        0x1
+ .bss.snap0_vacancy
+                0x00000000008002ba        0x1 build/default/production/rtc_ds1307.o
+
+.bss.register_new_value
+                0x00000000008002bb        0x1
+ .bss.register_new_value
+                0x00000000008002bb        0x1 build/default/production/rtc_ds1307.o
+
+.bss.register_current_value
+                0x00000000008002bc        0x1
+ .bss.register_current_value
+                0x00000000008002bc        0x1 build/default/production/rtc_ds1307.o
+
+.bss.DS1307ReadQueueSize
+                0x00000000008002bd        0x1
+ .bss.DS1307ReadQueueSize
+                0x00000000008002bd        0x1 build/default/production/rtc_ds1307_low_level.o
+
+.bss.queueTail  0x00000000008002be        0x1
+ .bss.queueTail
+                0x00000000008002be        0x1 build/default/production/rtc_ds1307_low_level.o
+
+.bss.queueHead  0x00000000008002bf        0x1
+ .bss.queueHead
+                0x00000000008002bf        0x1 build/default/production/rtc_ds1307_low_level.o
+
+.bss.DS1307ReadLengthQueue
+                0x0000000000800286        0xa
+ .bss.DS1307ReadLengthQueue
+                0x0000000000800286        0xa build/default/production/rtc_ds1307_low_level.o
+
+.bss.DS1307ReadDataPtrQueue
+                0x000000000080025e       0x14
+ .bss.DS1307ReadDataPtrQueue
+                0x000000000080025e       0x14 build/default/production/rtc_ds1307_low_level.o
+
+.bss.DS1307ReadRegisterQueue
+                0x0000000000800272       0x14
+ .bss.DS1307ReadRegisterQueue
+                0x0000000000800272       0x14 build/default/production/rtc_ds1307_low_level.o
+
+.bss.CurrentDataPtr
+                0x00000000008002a6        0x2
+ .bss.CurrentDataPtr
+                0x00000000008002a6        0x2 build/default/production/rtc_ds1307_low_level.o
+
+.bss.CurrentLength
+                0x00000000008002c0        0x1
+ .bss.CurrentLength
+                0x00000000008002c0        0x1 build/default/production/rtc_ds1307_low_level.o
+
+.bss.CurrentReadReg
+                0x00000000008002c1        0x1
+ .bss.CurrentReadReg
+                0x00000000008002c1        0x1 build/default/production/rtc_ds1307_low_level.o
+
+.bss.DS1307ReadWaitingFlag
+                0x00000000008002c2        0x1
+ .bss.DS1307ReadWaitingFlag
+                0x00000000008002c2        0x1 build/default/production/rtc_ds1307_low_level.o
+
+.text.__vector_33
+                0x00000000000001e0      0x2bc
+ .text.__vector_33
+                0x00000000000001e0      0x2bc build/default/production/i2c_driver.o
+                0x00000000000001e0                __vector_33
+
+.text.DS1307_reset
+                0x000000000000049c      0x1e6
+ .text.DS1307_reset
+                0x000000000000049c      0x1e6 build/default/production/rtc_ds1307.o
+                0x000000000000049c                DS1307_reset
+
+.text.DS1307_set
+                0x0000000000000682      0x1b0
+ .text.DS1307_set
+                0x0000000000000682      0x1b0 build/default/production/rtc_ds1307.o
+                0x0000000000000682                DS1307_set
+
+.text.DS1307_read
+                0x0000000000000832      0x19e
+ .text.DS1307_read
+                0x0000000000000832      0x19e build/default/production/rtc_ds1307.o
+                0x0000000000000832                DS1307_read
+
+.text.eeprom_Update
+                0x00000000000009d0       0xe2
+ .text.eeprom_Update
+                0x00000000000009d0       0xe2 build/default/production/EEPROM_24C32.o
+                0x00000000000009d0                eeprom_Update
+
+.text.DS1307_update
+                0x0000000000000ab2       0xbe
+ .text.DS1307_update
+                0x0000000000000ab2       0xbe build/default/production/rtc_ds1307_low_level.o
+                0x0000000000000ab2                DS1307_update
+
+.text.i2c_AddToWriteBuffer
+                0x0000000000000b70       0xa4
+ .text.i2c_AddToWriteBuffer
+                0x0000000000000b70       0xa4 build/default/production/i2c_driver.o
+
+.text.time_i2c_write_multi
+                0x0000000000000c14       0x7c
+ .text.time_i2c_write_multi
+                0x0000000000000c14       0x7c build/default/production/rtc_ds1307_low_level.o
+                0x0000000000000c14                time_i2c_write_multi
+
+.text.i2c_getFromWriteBuffer
+                0x0000000000000c90       0x6e
+ .text.i2c_getFromWriteBuffer
+                0x0000000000000c90       0x6e build/default/production/i2c_driver.o
+
+.text.i2c_ReadFromRxBuffer
+                0x0000000000000cfe       0x68
+ .text.i2c_ReadFromRxBuffer
+                0x0000000000000cfe       0x68 build/default/production/i2c_driver.o
+                0x0000000000000cfe                i2c_ReadFromRxBuffer
+
+.text.main      0x0000000000000d66       0x5a
+ .text.main     0x0000000000000d66       0x5a build/default/production/main.o
+                0x0000000000000d66                main
+
+.text.DS1307_init
+                0x0000000000000dc0       0x54
+ .text.DS1307_init
+                0x0000000000000dc0       0x54 build/default/production/rtc_ds1307.o
+                0x0000000000000dc0                DS1307_init
+
+.text.DS1307QueueADD
+                0x0000000000000e14       0x54
+ .text.DS1307QueueADD
+                0x0000000000000e14       0x54 build/default/production/rtc_ds1307_low_level.o
+
+.text.HEX_to_BCD
+                0x0000000000000e68       0x4c
+ .text.HEX_to_BCD
+                0x0000000000000e68       0x4c build/default/production/rtc_ds1307.o
+
+.text.DS1307_run
+                0x0000000000000eb4       0x44
+ .text.DS1307_run
+                0x0000000000000eb4       0x44 build/default/production/rtc_ds1307.o
+                0x0000000000000eb4                DS1307_run
+
+.text.i2c_Init  0x0000000000000ef8       0x3a
+ .text.i2c_Init
+                0x0000000000000ef8       0x3a build/default/production/i2c_driver.o
+                0x0000000000000ef8                i2c_Init
+
+.text.i2c_GetData
+                0x0000000000000f32       0x36
+ .text.i2c_GetData
+                0x0000000000000f32       0x36 build/default/production/i2c_driver.o
+                0x0000000000000f32                i2c_GetData
+
+.text.BCD_to_HEX
+                0x0000000000000f68       0x30
+ .text.BCD_to_HEX
+                0x0000000000000f68       0x30 build/default/production/rtc_ds1307.o
+
+.text.i2c_Update
+                0x0000000000000f98       0x28
+ .text.i2c_Update
+                0x0000000000000f98       0x28 build/default/production/i2c_driver.o
+                0x0000000000000f98                i2c_Update
+
+.text.time_i2c_write_single
+                0x0000000000000fc0       0x28
+ .text.time_i2c_write_single
+                0x0000000000000fc0       0x28 build/default/production/rtc_ds1307_low_level.o
+                0x0000000000000fc0                time_i2c_write_single
+
+.text.libgcc.div
+                0x0000000000000fe8       0x28
+ .text.libgcc.div
+                0x0000000000000fe8       0x28 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+                0x0000000000000fe8                _div
+                0x0000000000000fe8                __divmodhi4
+
+.text.libgcc.div
+                0x0000000000001010       0x28
+ .text.libgcc.div
+                0x0000000000001010       0x28 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+                0x0000000000001010                __udivmodhi4
+
+.text.DS1307_init_status_report
+                0x0000000000001038       0x18
+ .text.DS1307_init_status_report
+                0x0000000000001038       0x18 build/default/production/rtc_ds1307.o
+                0x0000000000001038                DS1307_init_status_report
+
+.text.exit      0x0000000000001050       0x16
+ .text.exit     0x0000000000001050       0x16 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o)
+                0x0000000000001050                exit
+
+.text.DS1307_init_status_update
+                0x0000000000001066       0x14
+ .text.DS1307_init_status_update
+                0x0000000000001066       0x14 build/default/production/rtc_ds1307.o
+                0x0000000000001066                DS1307_init_status_update
+
+.text.libgcc    0x000000000000107a       0x12
+ .text.libgcc   0x000000000000107a       0x12 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_tablejump2.o)
+                0x000000000000107a                __tablejump2__
+
+.text.time_i2c_read_single
+                0x000000000000108c        0xc
+ .text.time_i2c_read_single
+                0x000000000000108c        0xc build/default/production/rtc_ds1307_low_level.o
+                0x000000000000108c                time_i2c_read_single
+
+.text.time_i2c_read_multi
+                0x0000000000001098        0xc
+ .text.time_i2c_read_multi
+                0x0000000000001098        0xc build/default/production/rtc_ds1307_low_level.o
+                0x0000000000001098                time_i2c_read_multi
+
+.text.i2c_SendArray
+                0x00000000000010a4        0x8
+ .text.i2c_SendArray
+                0x00000000000010a4        0x8 build/default/production/i2c_driver.o
+                0x00000000000010a4                i2c_SendArray
+
+.text.init_portb
+                0x00000000000010ac        0x8
+ .text.init_portb
+                0x00000000000010ac        0x8 build/default/production/main.o
+                0x00000000000010ac                init_portb
+
+.text.eeprom_init
+                0x00000000000010b4        0x6
+ .text.eeprom_init
+                0x00000000000010b4        0x6 build/default/production/EEPROM_24C32.o
+                0x00000000000010b4                eeprom_init
+
+.text           0x00000000000010ba        0x4
+ .text          0x00000000000010ba        0x4 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr51/crtatmega128a.o
+                0x00000000000010ba                __vector_22
+                0x00000000000010ba                __vector_28
+                0x00000000000010ba                __vector_1
+                0x00000000000010ba                __vector_32
+                0x00000000000010ba                __vector_34
+                0x00000000000010ba                __vector_24
+                0x00000000000010ba                __vector_12
+                0x00000000000010ba                __bad_interrupt
+                0x00000000000010ba                __vector_6
+                0x00000000000010ba                __vector_31
+                0x00000000000010ba                __vector_3
+                0x00000000000010ba                __vector_23
+                0x00000000000010ba                __vector_30
+                0x00000000000010ba                __vector_25
+                0x00000000000010ba                __vector_11
+                0x00000000000010ba                __vector_13
+                0x00000000000010ba                __vector_17
+                0x00000000000010ba                __vector_19
+                0x00000000000010ba                __vector_7
+                0x00000000000010ba                __vector_27
+                0x00000000000010ba                __vector_5
+                0x00000000000010ba                __vector_4
+                0x00000000000010ba                __vector_9
+                0x00000000000010ba                __vector_2
+                0x00000000000010ba                __vector_21
+                0x00000000000010ba                __vector_15
+                0x00000000000010ba                __vector_29
+                0x00000000000010ba                __vector_8
+                0x00000000000010ba                __vector_26
+                0x00000000000010ba                __vector_14
+                0x00000000000010ba                __vector_10
+                0x00000000000010ba                __vector_16
+                0x00000000000010ba                __vector_18
+                0x00000000000010ba                __vector_20
+
+.text._Exit     0x00000000000010be        0x4
+ .text._Exit    0x00000000000010be        0x4 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(_Exit.o)
+                0x00000000000010be                _Exit
+
+.text.__dummy_fini
+                0x00000000000010c2        0x2
+ .text.__dummy_fini
+                0x00000000000010c2        0x2 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o)
+                0x00000000000010c2                _fini
+
+.text.__dummy_funcs_on_exit
+                0x00000000000010c4        0x2
+ .text.__dummy_funcs_on_exit
+                0x00000000000010c4        0x2 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o)
+                0x00000000000010c4                __funcs_on_exit
+
+.text.__dummy_simulator_exit
+                0x00000000000010c6        0x2
+ .text.__dummy_simulator_exit
+                0x00000000000010c6        0x2 c:/program files/microchip/xc8/v2.50/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(exit.o)
+                0x00000000000010c6                __simulator_exit
+
+.data.register_default_value
+                0x0000000000800290        0x8 load address 0x00000000000010c8
+ .data.register_default_value
+                0x0000000000800290        0x8 build/default/production/rtc_ds1307.o
+
+.data.init_data
+                0x0000000000800298        0x7 load address 0x00000000000010d0
+ .data.init_data
+                0x0000000000800298        0x7 build/default/production/main.o
+                0x0000000000800298                init_data
